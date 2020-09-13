@@ -1,0 +1,67 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.2</VERSION>
+ <DEVICE>AT90S2313</DEVICE>
+ <WORKING_DIR>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>E:\Atmel\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\2313mig.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>E:\Atmel\AvrAssembler2\Appnotes\2313def.inc</FILE>
+  <FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\macros.inc</FILE>
+  <FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\MidiInput.inc</FILE>
+  <FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\lcdprocs.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\punkt.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\punkt.hex</FILE>
+  <FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\punkt.eep</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\punkt.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <midi_buf><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\2313mig.asm</FILE><LINE>27</LINE></midi_buf>
+  <sysEx_pos><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\2313mig.asm</FILE><LINE>28</LINE></sysEx_pos>
+  <sysEx_buf><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\2313mig.asm</FILE><LINE>29</LINE></sysEx_buf>
+  <disp_id><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\2313mig.asm</FILE><LINE>38</LINE></disp_id>
+  <msg01_1><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\2313mig.asm</FILE><LINE>40</LINE></msg01_1>
+  <msg01_2><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\2313mig.asm</FILE><LINE>42</LINE></msg01_2>
+  <msg02_1><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\2313mig.asm</FILE><LINE>44</LINE></msg02_1>
+  <msg02_2><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\2313mig.asm</FILE><LINE>46</LINE></msg02_2>
+  <msg03_1><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\2313mig.asm</FILE><LINE>48</LINE></msg03_1>
+  <msg03_2><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\2313mig.asm</FILE><LINE>50</LINE></msg03_2>
+  <LCD_init><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\lcdprocs.inc</FILE><LINE>135</LINE></LCD_init>
+  <LCD_clear><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\lcdprocs.inc</FILE><LINE>164</LINE></LCD_clear>
+  <wait1sec><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\lcdprocs.inc</FILE><LINE>36</LINE></wait1sec>
+  <SndLCDStrProc><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\lcdprocs.inc</FILE><LINE>5</LINE></SndLCDStrProc>
+  <LCD_line2><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\lcdprocs.inc</FILE><LINE>176</LINE></LCD_line2>
+  <SndLCDEEPHexVal_code><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\lcdprocs.inc</FILE><LINE>181</LINE></SndLCDEEPHexVal_code>
+  <loop><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\2313mig.asm</FILE><LINE>112</LINE></loop>
+  <read_midi_sys_exclusive><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\MidiInput.inc</FILE><LINE>11</LINE></read_midi_sys_exclusive>
+  <LCD_line1><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\lcdprocs.inc</FILE><LINE>171</LINE></LCD_line1>
+  <lcd_send><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\lcdprocs.inc</FILE><LINE>81</LINE></lcd_send>
+  <read_midi_append_byte><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\MidiInput.inc</FILE><LINE>4</LINE></read_midi_append_byte>
+  <wait_for_midi_data><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\MidiInput.inc</FILE><LINE>41</LINE></wait_for_midi_data>
+  <read_midi_byte><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\MidiInput.inc</FILE><LINE>63</LINE></read_midi_byte>
+  <rmse_lbl01><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\MidiInput.inc</FILE><LINE>25</LINE></rmse_lbl01>
+  <wfmd_lbl01><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\MidiInput.inc</FILE><LINE>46</LINE></wfmd_lbl01>
+  <wait_31ys><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\MidiInput.inc</FILE><LINE>55</LINE></wait_31ys>
+  <w31ys_loop><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\MidiInput.inc</FILE><LINE>57</LINE></w31ys_loop>
+  <rmb_lbl01><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\MidiInput.inc</FILE><LINE>68</LINE></rmb_lbl01>
+  <read_midi_frame><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\MidiInput.inc</FILE><LINE>79</LINE></read_midi_frame>
+  <rmf_lbl00><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\MidiInput.inc</FILE><LINE>81</LINE></rmf_lbl00>
+  <SndLCDStrProc_done><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\lcdprocs.inc</FILE><LINE>20</LINE></SndLCDStrProc_done>
+  <wait1sec_><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\lcdprocs.inc</FILE><LINE>38</LINE></wait1sec_>
+  <wait_5ms><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\lcdprocs.inc</FILE><LINE>45</LINE></wait_5ms>
+  <WGLOOP0><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\lcdprocs.inc</FILE><LINE>47</LINE></WGLOOP0>
+  <WGLOOP1><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\lcdprocs.inc</FILE><LINE>49</LINE></WGLOOP1>
+  <Wait_50us><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\lcdprocs.inc</FILE><LINE>57</LINE></Wait_50us>
+  <Wait_50us_><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\lcdprocs.inc</FILE><LINE>59</LINE></Wait_50us_>
+  <LCD_toggle_enable><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\lcdprocs.inc</FILE><LINE>67</LINE></LCD_toggle_enable>
+  <lcd_command><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\lcdprocs.inc</FILE><LINE>110</LINE></lcd_command>
+  <powerupwait><FILE>L:\X\C alt\Programme\Programme\Atmel\AVR Tools\AvrStudio4\Projects\midilcdint2313\latest version checked 2009 (backlight fix)\lcdprocs.inc</FILE><LINE>137</LINE></powerupwait>
+ </LABELS>
+</ASSEMBLER_INFO>

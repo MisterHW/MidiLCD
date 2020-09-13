@@ -1,0 +1,10 @@
+Device    	: AT90S8515 / ATMega8515
+Frequency  	: 8.0 MHz
+Oscillator 	: Crystal
+WDTON		: 0
+CSEL 3..0 	: 1111 (1=unset)
+CKOPT		: 1
+SUT 1..0 	: 10
+BOOTSZ [1..0]	: 00
+BODEN		: 0 (brownout detection enabled)
+BODLEVEL	: 0 (~4V)
